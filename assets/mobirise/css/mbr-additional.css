@@ -676,10 +676,12 @@ section.lazy-placeholder:after {
 .cid-tIcTFmh8ci .mbr-section-subtitle,
 .cid-tIcTFmh8ci .typed-text {
   color: #ffffff;
+  text-align: left;
 }
 .cid-tIcTFmh8ci .mbr-section-text,
 .cid-tIcTFmh8ci .mbr-section-btn {
   color: #cccccc;
+  text-align: left;
 }
 .cid-tIcU1fdJox .dropdown-item:before {
   font-family: MobiriseIcons !important;
