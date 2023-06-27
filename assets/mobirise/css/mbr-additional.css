@@ -596,7 +596,7 @@ section.lazy-placeholder:after {
   opacity: 0.5;
 }
 .cid-tIcTFmh8ci {
-  background-image: url("../../../assets/images/mbr-1920x1280.webp");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-tIcTFmh8ci .mbr-section-title,
 .cid-tIcTFmh8ci .mbr-section-subtitle {
@@ -1579,16 +1579,16 @@ section.lazy-placeholder:after {
   font-size: 3.5rem !important;
 }
 .cid-tIdtH0zEnv .card1 {
-  background-image: url("../../../assets/images/mbr-3-1920x1280.webp");
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-tIdtH0zEnv .card2 {
-  background-image: url("../../../assets/images/mbr-3-1920x1280.webp");
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-tIdtH0zEnv .card3 {
-  background-image: url("../../../assets/images/background3.webp");
+  background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-tIdtH0zEnv .card4 {
-  background-image: url("../../../assets/images/background4.webp");
+  background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-tIdtH0zEnv h4 {
   font-weight: 500;
@@ -3033,46 +3033,68 @@ section.lazy-placeholder:after {
 .cid-tIdyws2ipy input::-webkit-calendar-picker-indicator {
   display: none;
 }
-.cid-tIddWxTpaK {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
+.cid-tIopwSE0DV {
+  padding-top: 10rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/imagen-de-whatsapp-2023-06-03-a-las-14.23.37.jpg");
 }
-@media (max-width: 767px) {
-  .cid-tIddWxTpaK .mbr-text {
-    text-align: center;
+.cid-tIopwSE0DV .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tIopwSE0DV .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tIopwSE0DV .arrow {
+  font-size: 3rem;
+  color: #ffffff;
+  animation-duration: 1s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  display: block;
+}
+.cid-tIopwSE0DV .arrow-col {
+  overflow: hidden;
+  margin-top: 5rem;
+}
+.cid-tIopwSE0DV .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-tIopwSE0DV .text-wrapper {
+    padding: 0 2rem;
   }
 }
-.cid-tIddWxTpaK .container-fluid {
-  padding: 0;
+.cid-tIopwSE0DV img {
+  border-radius: 2rem;
 }
-.cid-tIddWxTpaK .media-content {
-  max-width: 580px;
-  margin: auto;
-  padding: 1rem;
-}
-.cid-tIddWxTpaK img {
-  height: 100%;
-  object-fit: cover;
-}
-.cid-tIddWxTpaK .mbr-figure {
-  height: 100%;
-}
-.cid-tIddWxTpaK .col-lg-6 {
-  padding: 0;
-}
-.cid-tIddWxTpaK .row {
-  margin: 0;
-}
-.cid-tIddWxTpaK H1 {
+.cid-tIopwSE0DV .mbr-section-title {
+  text-align: center;
   color: #ffffff;
 }
-.cid-tIddWxTpaK H3 {
+.cid-tIopwSE0DV .mbr-section-subtitle {
+  text-align: center;
   color: #ffffff;
 }
-.cid-tIddWxTpaK .mbr-text,
-.cid-tIddWxTpaK .mbr-section-btn {
+.cid-tIopwSE0DV .mbr-text,
+.cid-tIopwSE0DV .mbr-section-btn {
   color: #ffffff;
+}
+@keyframes slidein {
+  0% {
+    transform: translateY(-50px);
+  }
+  50% {
+    transform: translateY(0px);
+  }
+  100% {
+    transform: translateY(50px);
+  }
 }
 .cid-tIcU1fdJox .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -3396,8 +3418,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-tIcUcx4Wfv {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 45px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-tIcUcx4Wfv .card-box {
@@ -3455,16 +3477,16 @@ section.lazy-placeholder:after {
   font-size: 3.5rem !important;
 }
 .cid-tIcUcx4Wfv .card1 {
-  background-image: url("../../../assets/images/mbr-3-1920x1280.webp");
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-tIcUcx4Wfv .card2 {
-  background-image: url("../../../assets/images/mbr-3-1920x1280.webp");
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-tIcUcx4Wfv .card3 {
-  background-image: url("../../../assets/images/mbr-3-1920x1280.webp");
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-tIcUcx4Wfv .card4 {
-  background-image: url("../../../assets/images/background4.webp");
+  background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-tIcUcx4Wfv h4 {
   font-weight: 500;
