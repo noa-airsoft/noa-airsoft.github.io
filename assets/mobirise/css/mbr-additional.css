@@ -1648,14 +1648,13 @@ section.lazy-placeholder:after {
 .cid-tIdyws2ipy input::-webkit-calendar-picker-indicator {
   display: none;
 }
-.cid-tIopwSE0DV {
-  padding-top: 10rem;
-  padding-bottom: 3rem;
+.cid-tIpHOoz4os {
+  background-image: url("../../../assets/images/imagen-de-whatsapp-2023-06-03-a-las-14.23.37.jpg");
 }
-.cid-tIopwSE0DV .mbr-fallback-image.disabled {
+.cid-tIpHOoz4os .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tIopwSE0DV .mbr-fallback-image {
+.cid-tIpHOoz4os .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1663,54 +1662,114 @@ section.lazy-placeholder:after {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/imagen-de-whatsapp-2023-06-03-a-las-14.23.37.jpg");
 }
-.cid-tIopwSE0DV .arrow {
-  font-size: 3rem;
-  color: #ffffff;
-  animation-duration: 1s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
-  display: block;
+.cid-tIpHOoz4os .container-fluid {
+  padding: 0 60px;
 }
-.cid-tIopwSE0DV .arrow-col {
-  overflow: hidden;
-  margin-top: 5rem;
+@media (max-width: 992px) {
+  .cid-tIpHOoz4os .container-fluid {
+    padding: 0 30px;
+  }
 }
-.cid-tIopwSE0DV .row {
+.cid-tIpHOoz4os .container-fluid .row {
+  padding: 0;
+}
+@media (max-width: 992px) {
+  .cid-tIpHOoz4os .container {
+    padding: 0 30px;
+  }
+}
+.cid-tIpHOoz4os .text-wrap {
+  display: flex;
   align-items: center;
 }
-@media (min-width: 992px) {
-  .cid-tIopwSE0DV .text-wrapper {
-    padding: 0 2rem;
+.cid-tIpHOoz4os .text-wrap .text-wrapper {
+  padding-right: 160px;
+  padding-right: 0;
+  padding-left: 160px;
+}
+@media (max-width: 1200px) {
+  .cid-tIpHOoz4os .text-wrap .text-wrapper {
+    padding-right: 82px;
   }
 }
-.cid-tIopwSE0DV img {
-  border-radius: 2rem;
+@media (max-width: 1200px) {
+  .cid-tIpHOoz4os .text-wrap .text-wrapper {
+    padding-right: 0;
+    padding-left: 82px;
+  }
 }
-.cid-tIopwSE0DV .mbr-section-title {
-  text-align: center;
+@media (max-width: 992px) {
+  .cid-tIpHOoz4os .text-wrap .text-wrapper {
+    padding: 0;
+  }
+}
+@media (max-width: 992px) {
+  .cid-tIpHOoz4os .text-wrap .text-wrapper {
+    padding: 0;
+  }
+}
+.cid-tIpHOoz4os .text-wrap .text-wrapper .mbr-section-title {
+  margin-bottom: 32px;
+}
+.cid-tIpHOoz4os .text-wrap .text-wrapper .mbr-text {
+  margin-bottom: 22px;
+}
+.cid-tIpHOoz4os .image-wrapper {
+  position: relative;
+}
+@media (max-width: 992px) {
+  .cid-tIpHOoz4os .image-wrapper {
+    margin-top: 60px;
+  }
+}
+.cid-tIpHOoz4os .image-wrapper img {
+  object-fit: cover;
+  border-radius: 10px;
+}
+.cid-tIpHOoz4os .image-wrapper img:first-child {
+  height: 720px;
+}
+@media (max-width: 992px) {
+  .cid-tIpHOoz4os .image-wrapper img:first-child {
+    height: 280px;
+  }
+}
+.cid-tIpHOoz4os .image-wrapper img:last-child {
+  position: absolute;
+  bottom: 4rem;
+  left: -7rem;
+  width: 230px;
+  height: 320px;
+  left: auto;
+  right: -7rem;
+}
+@media (max-width: 1200px) {
+  .cid-tIpHOoz4os .image-wrapper img:last-child {
+    right: -5rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-tIpHOoz4os .image-wrapper img:last-child {
+    display: none;
+  }
+}
+.cid-tIpHOoz4os .mbr-section-title {
+  color: #000000;
+}
+.cid-tIpHOoz4os .mbr-text {
   color: #ffffff;
 }
-.cid-tIopwSE0DV .mbr-section-subtitle {
-  text-align: center;
-  color: #ffffff;
+.cid-tIpHOoz4os .mbr-cit {
+  color: #000000;
 }
-.cid-tIopwSE0DV .mbr-text,
-.cid-tIopwSE0DV .mbr-section-btn {
+.cid-tIpHOoz4os .mbr-name {
+  color: #a8a8a8;
+}
+.cid-tIpHOoz4os .mbr-section-title,
+.cid-tIpHOoz4os .mbr-section-btn {
   color: #ffffff;
   text-align: center;
-}
-@keyframes slidein {
-  0% {
-    transform: translateY(-50px);
-  }
-  50% {
-    transform: translateY(0px);
-  }
-  100% {
-    transform: translateY(50px);
-  }
 }
 .cid-tIcU1fdJox .dropdown-item:before {
   font-family: MobiriseIcons !important;
