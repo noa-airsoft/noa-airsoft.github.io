@@ -1160,6 +1160,112 @@ section.lazy-placeholder:after {
 .cid-tId8MoZimC H2 {
   color: #000000;
 }
+.cid-tIsW7m9zQH {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-tIsW7m9zQH .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-tIsW7m9zQH .item-image {
+  position: relative;
+}
+@media (min-width: 992px) {
+  .cid-tIsW7m9zQH .container {
+    max-width: 1600px;
+  }
+}
+.cid-tIsW7m9zQH .mbr-iconfont {
+  color: #55b4d4 !important;
+}
+.cid-tIsW7m9zQH .item-caption {
+  padding: 3rem;
+  padding-bottom: 1rem;
+}
+.cid-tIsW7m9zQH .item-social {
+  position: absolute;
+  left: 50%;
+  align-items: center;
+  right: 50%;
+  transform: translate(-50%, -50%);
+  bottom: -3rem;
+  opacity: 0;
+  transition: all 0.3s;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 20%, #000000 200%);
+  height: 6rem;
+}
+.cid-tIsW7m9zQH .bg1 {
+  background: #c1c1c1;
+}
+.cid-tIsW7m9zQH .bg2 {
+  background: #465052;
+}
+.cid-tIsW7m9zQH .bg3 {
+  background: #c1c1c1;
+}
+.cid-tIsW7m9zQH .bg4 {
+  background: #465052;
+}
+.cid-tIsW7m9zQH .team-item {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  height: fit-content;
+  transition: all 0.2s;
+  margin-bottom: 0rem;
+}
+.cid-tIsW7m9zQH .team-item:hover .item-social {
+  opacity: 1;
+}
+.cid-tIsW7m9zQH .team-item .item-image img {
+  width: 100%;
+}
+.cid-tIsW7m9zQH .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-tIsW7m9zQH .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-tIsW7m9zQH .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-tIsW7m9zQH .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-tIsW7m9zQH .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-tIsW7m9zQH .item-text {
+  color: #000000;
+  text-align: center;
+}
+@media (max-width: 767px) {
+  .cid-tIsW7m9zQH .item-caption {
+    padding: 2rem 1rem;
+  }
+  .cid-tIsW7m9zQH .item-social {
+    opacity: 1;
+  }
+}
+.cid-tIsW7m9zQH .item-role {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-tIsW7m9zQH .item-name {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-tIsW7m9zQH H2 {
+  color: #000000;
+}
 .cid-tIdxYeSYEy .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
