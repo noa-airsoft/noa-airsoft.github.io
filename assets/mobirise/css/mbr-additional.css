@@ -2434,9 +2434,46 @@ section.lazy-placeholder:after {
   margin: 0;
 }
 .cid-tIcUnIRcls H3 {
-  text-align: center;
+  text-align: left;
 }
 .cid-tIcUnIRcls H1 {
+  text-align: left;
+}
+.cid-tIyIMejzWL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-tIyIMejzWL .mbr-text {
+    text-align: center;
+  }
+}
+.cid-tIyIMejzWL .container-fluid {
+  padding: 0;
+}
+.cid-tIyIMejzWL .media-content {
+  max-width: 580px;
+  margin: auto;
+  padding: 1rem;
+}
+.cid-tIyIMejzWL img {
+  height: 100%;
+  object-fit: cover;
+}
+.cid-tIyIMejzWL .mbr-figure {
+  height: 100%;
+}
+.cid-tIyIMejzWL .col-lg-6 {
+  padding: 0;
+}
+.cid-tIyIMejzWL .row {
+  margin: 0;
+}
+.cid-tIyIMejzWL H1 {
+  text-align: center;
+}
+.cid-tIyIMejzWL H3 {
   text-align: center;
 }
 .cid-tIcU1fdJox .dropdown-item:before {
