@@ -4267,7 +4267,7 @@ section.lazy-placeholder:after {
 }
 .cid-tIt5sDZShR {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 10rem;
   background-image: url("../../../assets/images/mbr-5.jpg");
 }
 .cid-tIt5sDZShR .mbr-fallback-image.disabled {
@@ -4297,7 +4297,7 @@ section.lazy-placeholder:after {
 .cid-tIt5sDZShR .row.card .subtitle-wrapper {
   margin: -25px 0 0 0;
   transform: rotate(-5deg);
-  background-color: #82786e;
+  background-color: #b1a374;
   border-radius: 17px;
   padding: 20px;
 }
@@ -4393,10 +4393,11 @@ section.lazy-placeholder:after {
   z-index: 1;
 }
 .cid-tIt5sDZShR .mbr-section-title {
-  color: #ffffff;
+  color: #b2ccd2;
+  text-align: center;
 }
 .cid-tIt5sDZShR .mbr-section-subtitle {
-  color: #101511;
+  color: #ffffff;
   text-align: center;
 }
 .cid-tIt5sDZShR .mbr-text {
