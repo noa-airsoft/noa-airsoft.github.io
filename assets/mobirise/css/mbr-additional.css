@@ -2887,6 +2887,58 @@ section.lazy-placeholder:after {
   margin: 0 !important;
   padding: 1rem 2rem;
 }
+.cid-tIEnegljkh {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url("../../../assets/images/mbr-14.jpg");
+}
+.cid-tIEnegljkh img {
+  height: 210px;
+  object-fit: cover;
+  width: 210px;
+  border-radius: 100%;
+}
+.cid-tIEnegljkh .row {
+  justify-content: center;
+}
+.cid-tIEnegljkh .mbr-text,
+.cid-tIEnegljkh .mbr-section-btn {
+  color: #cccccc;
+}
+.cid-tIEnegljkh .icon-box {
+  display: flex;
+  align-items: center;
+}
+.cid-tIEnegljkh .item {
+  display: flex;
+  align-items: center;
+  padding-right: 2rem;
+}
+.cid-tIEnegljkh .mbr-iconfont {
+  color: #cccccc !important;
+  font-size: 1rem !important;
+  padding-right: 0.5rem;
+  padding-bottom: 0.1rem;
+}
+.cid-tIEnegljkh .date {
+  margin: 0;
+  color: #cccccc;
+}
+.cid-tIEnegljkh .img-col {
+  margin: auto 0;
+}
+@media (max-width: 767px) {
+  .cid-tIEnegljkh .icon-box {
+    flex-direction: column;
+  }
+  .cid-tIEnegljkh .item {
+    padding-right: 0rem;
+    padding-bottom: 0.3rem;
+  }
+  .cid-tIEnegljkh img {
+    margin-bottom: 2rem;
+  }
+}
 .cid-tIcU1fdJox .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
